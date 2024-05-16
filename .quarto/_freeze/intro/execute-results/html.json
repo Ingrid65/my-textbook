@@ -1,8 +1,8 @@
 {
-  "hash": "21f3f91dd515de38d5a1746013307b78",
+  "hash": "02ef861ee544d2a741376ef85a900deb",
   "result": {
     "engine": "knitr",
-    "markdown": "# Inleiding\n\nDit is de inleiding.\n\nEn dit is een literatuurverwijzing @knuth84\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "# Inleiding\n\nDit is de inleiding (opnieuw toegevoegd)\n\nEn dit is een literatuurverwijzing @knuth84\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

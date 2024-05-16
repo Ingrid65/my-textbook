@@ -1,6 +1,6 @@
 # Inleiding
 
-Dit is de inleiding.
+Dit is de inleiding (opnieuw toegevoegd)
 
 En dit is een literatuurverwijzing @knuth84
 
