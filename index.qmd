@@ -1,0 +1,20 @@
+# Preface {.unnumbered}
+
+Dit is mijn boek :-)
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
+
+Ik wil een foto erin ![images/benji](images/041012-UniBibl-WiArets-09-L.jpg){width="389"}
+
+en dit is een video [De kunst van speedwriting](https://youtube.com/playlist?list=PL8qbaTI1g1gOATf4xlKlumtkEB2pIkQDx&si=udhsy7VhI4I1OiVz)
+
+Alleen wil ik de video niet als link maar als scherm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=U-rquefY2hxPKmnQ&amp;list=PL8qbaTI1g1gOATf4xlKlumtkEB2pIkQDx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+

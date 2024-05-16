@@ -1,0 +1,25 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Dummybook"
+  author: "Ingrid van der Heijde"
+  date: "16-5-2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Part 1"
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: sketchy
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

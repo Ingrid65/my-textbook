@@ -1,0 +1,15 @@
+{
+  "hash": "83b5e64a6faa97fb75ac18ca8241d323",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Preface {.unnumbered}\n\nDit is mijn boek :-)\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nIk wil een foto erin ![images/benji](images/041012-UniBibl-WiArets-09-L.jpg){width=\"389\"}\n\nen dit is een video [De kunst van speedwriting](https://youtube.com/playlist?list=PL8qbaTI1g1gOATf4xlKlumtkEB2pIkQDx&si=udhsy7VhI4I1OiVz)\n\nAlleen wil ik de video niet als link maar als scherm\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?si=U-rquefY2hxPKmnQ&amp;list=PL8qbaTI1g1gOATf4xlKlumtkEB2pIkQDx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen>\n\n</iframe>\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
