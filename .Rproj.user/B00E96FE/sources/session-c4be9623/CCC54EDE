@@ -3,9 +3,9 @@
     "path": "C:/Users/Heijd122/OneDrive - Universiteit Utrecht/Documenten/dummybook/intro.qmd",
     "project_path": "intro.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2873058274",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1715848669840.0,
     "source_on_save": true,
     "relative_order": 3,
@@ -21,11 +21,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1715848694,
+    "lastKnownWriteTime": 1715850598,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1715848766000,
+    "last_content_update": 1715850598362,
     "read_only": false,
     "read_only_alternatives": []
 }

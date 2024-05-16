@@ -1,8 +1,8 @@
-# Introduction
+# Inleiding
 
-This is a book created from markdown and executable code.
+Dit is de inleiding.
 
-See @knuth84 for additional discussion of literate programming.
+En dit is een literatuurverwijzing @knuth84
 
 ```{r}
 1 + 1
